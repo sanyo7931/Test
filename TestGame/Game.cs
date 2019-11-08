@@ -24,7 +24,7 @@ namespace TestGame
                 }
                 else
                 {
-                    Console.WriteLine("請輸入數字");
+                    Console.WriteLine("請輸入數字!!");
                 }
             }
             return result;
